@@ -5,7 +5,7 @@ Configuration files for Thinkpad x240 with Debian
 Configuraciones de la tarjeta de sonido
 -------------------------------------------------
 Debe estar instalado alsa y alsa-utils
-La tarjeta que maneja la linea analogica es la tarjeta 1 en este caso. Se debe crear una regla de configuracion global para establecer esa targeta por defecto. 
+La tarjeta que maneja la linea analogica es la tarjeta 1 en este caso. Se debe crear una regla de configuracion global para establecer esa tarjeta por defecto. 
 
 
 $ /etc/asound.conf
