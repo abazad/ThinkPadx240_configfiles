@@ -47,8 +47,8 @@ El directorio del theme de slim: /usr/share/slim/themes/slim-debian-simple
 Configuración del gestor del Window Manager awesome
 ------------------------------------------------
 Primero debemos instalarlo.
-# apt-get install awesome
-# apt-get install awesome-extra
+$ apt-get install awesome
+$ apt-get install awesome-extra
 
 Directorio de configuracion de awesome para el usuario: 
 
