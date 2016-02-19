@@ -20,3 +20,14 @@ Directorio de configuración del Touchpad
 
 $ /usr/share/X11/xorg.conf.d/50-synaptics.conf
 
+-------------------------------------------------
+Configuracion de los colores de la terminal
+-------------------------------------------------
+
+Para modificar los colores de la terminal metemos los ficheros .bashrc en:
+
+$ ~/.bashrc       //para el usuario
+$ /root/.bashrc   //para root
+
+En el caso del fichero del root .bashrcroot se debe renombrar a .bashrc 
+
