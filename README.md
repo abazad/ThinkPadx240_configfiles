@@ -26,8 +26,11 @@ Configuracion de los colores de la terminal
 
 Para modificar los colores de la terminal metemos los ficheros .bashrc en:
 
-$ ~/.bashrc       #para el usuario
-$ /root/.bashrc   #para root
+Para el usuario:
+$ ~/.bashrc       
+
+Para root:
+$ /root/.bashrc   
 
 En el caso del fichero del root .bashrcroot se debe renombrar a .bashrc 
 
