@@ -1,0 +1,33 @@
+==============
+How to install
+==============
+
+1. Unpack
+$ tar -zxvf slim-debian-simple.tar.gz
+
+
+2. Copy extracted folder to Slim theme directory
+# cp -R slim-debian-simple/ /usr/share/slim/themes
+
+
+3. Open Slim config file
+# nano /etc/slim.conf
+
+
+4. Locate and change the following line
+current_theme		slim-debian-simple
+
+
+I hope you enjoy!
+
+
+
+
+
+---
+Autor:
+Renato Vernucio
+rvernucio@yahoo.com.br
+http://box-look.org/usermanager/?PHPSESSID=661243eacb2e6130af2a7a35106a6665
+
+Release: 30/12/10
